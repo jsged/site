@@ -2,14 +2,14 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Logo, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Selene",
-  lastName: "Yu",
-  name: `Selene Yu`,
-  role: "Design Engineer",
+  firstName: "James",
+  lastName: "Edwards",
+  name: `James Edwards`,
+  role: "Nothing :)",
   avatar: "/images/avatar.jpg",
-  email: "example@gmail.com",
-  location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
+  email: "mail@jsged.com",
+  location: "England/United Kingdom", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+  languages: ["English"], // optional: Leave the array empty if you don't want to display languages
 };
 
 const newsletter: Newsletter = {
@@ -24,23 +24,53 @@ const social: Social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system",
-  },
-  {
-    name: "LinkedIn",
-    icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
-  },
-  {
-    name: "Threads",
-    icon: "threads",
-    link: "https://www.threads.com/@once_ui",
+    link: "https://github.com/jsged",
   },
   {
     name: "Email",
     icon: "email",
     link: `mailto:${person.email}`,
   },
+  {
+    name: "X (Twitter)",
+    icon: "X",
+    link: "https://x.com/TheRealJameez",
+  },
+  { 
+    name: "Xbox",
+    icon: "xbox",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "Google Play Developer",
+    icon: "google-play",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "Discord",
+    icon: "discord",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "Instagram",
+    icon: "instagram",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "Steam",
+    icon: "steam",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "TikTok",
+    icon: "tiktok",
+    link: "https://planned.jsged.com/",
+  },
+  {
+    name: "Spotify",
+    icon: "spotify",
+    link: "https://planned.jsged.com/",
+  }
 ];
 
 const home: Home = {
