@@ -33,7 +33,7 @@ const social: Social = [
   },
   {
     name: "X (Twitter)",
-    icon: "x",
+    icon: "twitter",
     link: "https://x.com/TheRealJameez",
   },
   { 
