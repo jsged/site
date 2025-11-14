@@ -33,7 +33,7 @@ const social: Social = [
   },
   {
     name: "X (Twitter)",
-    icon: "X",
+    icon: "x",
     link: "https://x.com/TheRealJameez",
   },
   { 
@@ -43,7 +43,7 @@ const social: Social = [
   },
   {
     name: "Google Play Developer",
-    icon: "google-play",
+    icon: "googleplay",
     link: "https://planned.jsged.com/",
   },
   {
