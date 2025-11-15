@@ -87,7 +87,7 @@ const home: Home = {
         <strong className="ml-4">Once UI</strong>{" "}
         <Line background="brand-alpha-strong" vert height="20" />
         <Text marginRight="4" onBackground="brand-medium">
-          Featured work
+          Featured Work
         </Text>
       </Row>
     ),
@@ -95,7 +95,7 @@ const home: Home = {
   },
   subline: (
     <>
-      I'm Selene, a design engineer at{" "}
+      I'm James, and i program applications and computer games and i also work in live events such as festivals and theatre shows{" "}
       <Logo
         dark
         icon="/trademarks/wordmark-dark.svg"
