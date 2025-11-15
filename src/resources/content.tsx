@@ -95,14 +95,7 @@ const home: Home = {
   },
   subline: (
     <>
-      I'm James, and i program applications and computer games and i also work in live events such as festivals and theatre shows{" "}
-      <Logo
-        dark
-        icon="/trademarks/wordmark-dark.svg"
-        style={{ display: "inline-flex", top: "0.25em", marginLeft: "-0.25em" }}
-      />
-      , where I craft intuitive
-      <br /> user experiences. After hours, I build my own projects.
+      I'm James, and i program applications and computer games and i also work in live events such as festivals and theatre shows.
     </>
   ),
 };
