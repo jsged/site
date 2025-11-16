@@ -36,11 +36,6 @@ const social: Social = [
     icon: "twitter",
     link: "https://x.com/TheRealJameez",
   },
-  { 
-    name: "Xbox",
-    icon: "xbox",
-    link: "https://planned.jsged.com/",
-  },
   {
     name: "Google Play Developer",
     icon: "googleplay",
@@ -52,18 +47,8 @@ const social: Social = [
     link: "https://planned.jsged.com/",
   },
   {
-    name: "Instagram",
-    icon: "instagram",
-    link: "https://planned.jsged.com/",
-  },
-  {
     name: "Steam",
     icon: "steam",
-    link: "https://planned.jsged.com/",
-  },
-  {
-    name: "TikTok",
-    icon: "tiktok",
     link: "https://planned.jsged.com/",
   },
   {
