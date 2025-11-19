@@ -54,7 +54,7 @@ const social: Social = [
   {
     name: "Spotify",
     icon: "spotify",
-    link: "https://planned.jsged.com/",
+    link: "https://open.spotify.com/user/316ay2es2vpdrbwpto7ffe66jq2a?si=c0b249f89c7b4960",
   }
 ];
 
