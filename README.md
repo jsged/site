@@ -1,11 +1,11 @@
 # jsged
 
-This is jsged's site which is based off of a project called Magic Portfolio:
+This is jsged's site which is based off of a project called **Once UI**:
 
-View the demo [here](https://demo.magic-portfolio.com).\
-View the GitHub Repo [here](https://github.com/once-ui-system/magic-portfolio).
+View the Site [here](https://once-ui.com/).\
+View the GitHub Profile [here](https://github.com/once-ui-system).
 
 ## Information
 This site was deployed using [Vercel](https://vercel.app).
 
-This site was edited and made to fit by James Edwards (jsged)
+This site was edited and made by James Edwards (jsged)
