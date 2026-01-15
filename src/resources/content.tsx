@@ -168,28 +168,16 @@ const about: About = {
       {
         title: "Figma",
         description: (
-          <>Able to prototype in Figma with Once UI with unnatural speed.</>
+          <>Able to program in Next.js and OnceUI, to create [My Site](https://jsged.com)</>
         ),
         tags: [
           {
-            name: "Figma",
-            icon: "figma",
+            name: "Next.js",
+            icon: "nodejs",
           },
         ],
         // optional: leave the array empty if you don't want to display images
         images: [
-          {
-            src: "/images/projects/project-01/cover-02.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "/images/projects/project-01/cover-03.jpg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
         ],
       },
       {
