@@ -110,7 +110,7 @@ const about: About = {
         role: "Set Construction, Rigging and Followspot Op.",
         achievements: [
           <>
-            Set Constrcution role was completed with my dad, Paul Edwards on behalf of <i>Salt & Pepper Productions</i>.
+            Set Construction role was completed with my dad, Paul Edwards on behalf of <i>Salt & Pepper Productions</i>.
           </>,
           <>
             Rigging and Followspot Op. was completed on behalf of Aurian Lighting at The Grange Theatre, Northwich.
@@ -141,7 +141,7 @@ const about: About = {
             Learnt how to use the FLX S24 (ZerOS) from Zero 88.
           </>,
           <>
-            Did lighting desing on operation for Frozen Jr. (The Muscial) at Rudheath High School.
+            Did lighting design on operation for Frozen Jr. (The Muscial) at Rudheath High School.
           </>,
           <>
             Images Soon to Come.
@@ -157,7 +157,7 @@ const about: About = {
     institutions: [
       {
         name: "None of Your Business...",
-        description: <>Providing my current educational facility would be innapropriate.</>,
+        description: <>Providing my current educational facility would be inappropriate.</>,
       },
     ],
   },
