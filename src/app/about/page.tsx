@@ -187,13 +187,13 @@ export default function About() {
                       <Text id={experience.company} variant="heading-strong-l">
                         {experience.company}
                       </Text>
-                      <Text id={experience.company} variant="heading-strong-l">
-                        Event: {experience.event}
-                      </Text>
                       <Text variant="heading-default-xs" onBackground="neutral-weak">
                         {experience.timeframe}
                       </Text>
                     </Row>
+                    <Text variant="body-default-s" variant="heading-strong-l">
+                        Event: {experience.event}
+                      </Text>
                     <Text variant="body-default-s" onBackground="brand-weak" marginBottom="m">
                       {experience.role}
                     </Text>
