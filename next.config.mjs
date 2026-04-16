@@ -22,15 +22,9 @@ const nextConfig = {
     compiler: "modern",
     silenceDeprecations: ["legacy-js-api"],
   },
-};
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
-}
-
-export default nextConfig
+};
 
 export default withMDX(nextConfig);
