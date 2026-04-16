@@ -2,7 +2,7 @@ import { About, Blog, Gallery, Home, Person, Social, Work } from "@/types";
 import { Line, Logo, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "John",
+  firstName: "James",
   lastName: "Edwards",
   name: `James Edwards`,
   role: "Nothing :)",
@@ -105,6 +105,42 @@ const about: About = {
     title: "Work Experience",
     experiences: [
       {
+        company: "ProLive Technical Production Services",
+        event: "Navi - King of Pop",
+        timeframe: "April 2026",
+        role: "Crew and Venue Technicians",
+        achievements: [
+          <>
+            Did a full load in and out of all equipment.
+          </>,
+          <>
+            Images Soon to Come.
+          </>,
+        ],
+        images: [],
+      },
+      {
+        company: "ProLive Technical Production Services",
+        event: "Absoulutely Collins",
+        timeframe: "April 2026",
+        role: "Crew and Lighting",
+        achievements: [
+          <>
+            Did a full load in and out of all equipment.
+          </>,
+          <>
+            Plotted a set of lighting cues for live busking of lighting throughtout the show.
+          </>,
+          <>
+            Used an Avolites Tiger Touch II.
+          </>,
+          <>
+            Images Soon to Come.
+          </>,
+        ],
+        images: [],
+      },
+      {
         company: "Aurian Lighting",
         event: "The Great British Bake Off: The Musical",
         timeframe: "November 2025",
@@ -132,18 +168,15 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
-        event: "The Great British Bake Off: The Musical",
+        event: "Nantwich Food Festival",
         timeframe: "August 2025",
-        role: "On-Site Technician",
+        role: "On-Site Technician and Crew",
         achievements: [
           <>
-            Learnt the use of a Soundcraft UI16 Mixer.
+            Did a full load out of all equipment.
           </>,
           <>
-            Live mix for a demo tent and main Stage
-          </>,
-          <>
-            Did lighting design on operation for Frozen Jr. (The Muscial) at Rudheath High School.
+            Assisted acts with any sound issues they may have throughout the weekend.
           </>,
           <>
             Images Soon to Come.
@@ -153,7 +186,25 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
-        event: "The Great British Bake Off: The Musical",
+        event: "Festa Italiana",
+        timeframe: "August 2025",
+        role: "On-Site Technician and Crew",
+        achievements: [
+          <>
+            Learnt the use of a Soundcraft UI16 Mixer.
+          </>,
+          <>
+            Live mix for the demo tent and main stage.
+          </>,
+          <>
+            Images Soon to Come.
+          </>,
+        ],
+        images: [],
+      },
+      {
+        company: "Bailey Audio Systems",
+        event: "Frozen Jr. : The Musical",
         timeframe: "July 2025",
         role: "Work Experience Technician",
         achievements: [
@@ -164,7 +215,7 @@ const about: About = {
             Learnt how to use the FLX S24 (ZerOS) from Zero 88.
           </>,
           <>
-            Did lighting design on operation for Frozen Jr. (The Muscial) at Rudheath High School.
+            Did lighting design on operation for the show at Rudheath High School.
           </>,
           <>
             Images Soon to Come.
