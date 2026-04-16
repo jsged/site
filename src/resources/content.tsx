@@ -106,6 +106,7 @@ const about: About = {
     experiences: [
       {
         company: "Aurian Lighting",
+        event: "The Great British Bake Off: The Musical",
         timeframe: "November 2025",
         role: "Set Construction, Rigging and Followspot Op.",
         achievements: [
@@ -131,6 +132,28 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
+        event: "The Great British Bake Off: The Musical",
+        timeframe: "August 2025",
+        role: "On-Site Technician",
+        achievements: [
+          <>
+            Learnt the use of a Soundcraft UI16 Mixer.
+          </>,
+          <>
+            Live mix for a demo tent and main Stage
+          </>,
+          <>
+            Did lighting design on operation for Frozen Jr. (The Muscial) at Rudheath High School.
+          </>,
+          <>
+            Images Soon to Come.
+          </>,
+        ],
+        images: [],
+      },
+      {
+        company: "Bailey Audio Systems",
+        event: "The Great British Bake Off: The Musical",
         timeframe: "July 2025",
         role: "Work Experience Technician",
         achievements: [
