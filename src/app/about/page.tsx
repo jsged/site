@@ -191,7 +191,7 @@ export default function About() {
                         {experience.timeframe}
                       </Text>
                     </Row>
-                    <Text variant="body-default-s" variant="heading-strong-l">
+                    <Text variant="body-default-s" onBackground="brand-weak">
                         Event: {experience.event}
                       </Text>
                     <Text variant="body-default-s" onBackground="brand-weak" marginBottom="m">
