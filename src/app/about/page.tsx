@@ -187,8 +187,8 @@ export default function About() {
                       <Media
                               enlarge
                               radius="m"
-                              sizes={logo.width.toString()}
-                              src={logo.src}
+                              sizes={experience.logo.width.toString()}
+                              src={experience.logo}
                             />
                       <Text id={experience.company} variant="heading-strong-l">
                         {experience.company}
