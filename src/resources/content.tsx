@@ -106,6 +106,7 @@ const about: About = {
     experiences: [
       {
         company: "ProLive Technical Production Services",
+        logo: "/test.png",
         event: "Navi - King of Pop",
         timeframe: "April 2026",
         role: "Crew and Venue Technicians",
@@ -121,6 +122,7 @@ const about: About = {
       },
       {
         company: "ProLive Technical Production Services",
+        logo: "/test.png",
         event: "Absoulutely Collins",
         timeframe: "April 2026",
         role: "Crew and Lighting",
@@ -142,6 +144,7 @@ const about: About = {
       },
       {
         company: "Aurian Lighting",
+        logo: "/test.png",
         event: "The Great British Bake Off: The Musical",
         timeframe: "November 2025",
         role: "Set Construction, Rigging and Followspot Op.",
@@ -168,6 +171,7 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
+        logo: "/test.png",
         event: "Nantwich Food Festival",
         timeframe: "August 2025",
         role: "On-Site Technician and Crew",
@@ -186,6 +190,7 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
+        logo: "/test.png",
         event: "Festa Italiana",
         timeframe: "August 2025",
         role: "On-Site Technician and Crew",
@@ -204,6 +209,7 @@ const about: About = {
       },
       {
         company: "Bailey Audio Systems",
+        logo: "/test.png",
         event: "Frozen Jr. : The Musical",
         timeframe: "July 2025",
         role: "Work Experience Technician",
