@@ -181,9 +181,15 @@ export default function About() {
                 {about.work.title}
               </Heading>
               <Column fillWidth gap="l" marginBottom="40">
-                {about.work.experiences.map((experience, index) => (
+                {about.work.experiences.map((exper2ience, index) => (
                   <Column key={`${experience.company}-${experience.role}-${index}`} fillWidth>
                     <Row fillWidth horizontal="between" vertical="end" marginBottom="4">
+                      <Media
+                              enlarge
+                              radius="m"
+                              sizes={image.width.toString()}
+                              src={logo.src}
+                            />
                       <Text id={experience.company} variant="heading-strong-l">
                         {experience.company}
                       </Text>
